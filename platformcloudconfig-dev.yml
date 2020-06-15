@@ -1,4 +1,3 @@
-test:
-  message: DEV
+message: WELCOME DEV
 server:
   port: 2234
